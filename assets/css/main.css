@@ -1,14 +1,13 @@
 .letras{
   font-family: 'Poppins', sans-serif;
   margin-left: 35%;
+  margin-top: 50px;
 }
 div{
-    display: block;
+    display: inline;
     background-color: yellow;
-    padding-bottom: 30px;
-    padding-left: 10px;
-    width: 150px;
-    margin: 20px
+    padding: 8px 15px 3px 3px;
+    margin: 10px;
 }
 #color{
   background-color:  #ff0066;

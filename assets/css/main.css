@@ -1,0 +1,13 @@
+.letras{
+  font-family: 'Poppins', sans-serif;
+}
+div{
+    display: block;
+    background-color: yellow;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+#color{
+  background-color:  #ff0066;
+  border: 1px solid black;
+}
